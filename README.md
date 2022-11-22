@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+//TODO
+* add sections for links, CV download, publications, projects
+* add latest section with a github action that pulls latest repo updates, as well as latest Reports from those
+* 
