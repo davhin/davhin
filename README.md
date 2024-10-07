@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-//TODO
-* add sections for links, CV download, publications, projects
-* add latest section with a github action that pulls latest repo updates, as well as latest Reports from those
-* 
+My name is David and I am a Berlin-based Machine Learning Engineer interested in building cost-effective data/ml solutions in positive-sum settings. If that is what you are doing and you need help, let me know!
