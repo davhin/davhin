@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is David and I am a Berlin-based freelance Machine Learning Engineer interested in building cost-effective data/ml solutions in positive-sum settings. If that is what you are doing and you need help, let me know!
+My name is David and I am a Berlin-based Machine Learning Scientist/Engineer interested in building cost-effective data/ml solutions in positive-sum settings. If that is what you are doing and you need help, let me know! I also might have capacity for freelance work.
 
 - Linkedin https://www.linkedin.com/in/david-hinrichs-398299109/
 - BlueSky https://bsky.app/profile/dvdhnrchs.bsky.social
